@@ -1,1 +1,3 @@
 # BillingManagement
+
+This application allows users to calculate the total amount of bills that they owe for a time-period. The user can input a number in the following text fields: hydro, utilities, misc, internet and phone. The application will then calculate a subtotal, with tax and a total. If the user already has taxes accounted for the in the costs, the user can refer to the subtotal section. This application makes calculating costs easier with the organized tabs of different costs rather than using a calculator. Java is the main language used in coding this and uses an interface with a total and reset button and then outputs the desired results.
